@@ -11,8 +11,9 @@
   
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/moritz-blum-7067061b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moritz-blum-7067061b3/" height="30" width="40" /></a> 
-  or
-<a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=918F95BE3678C146DCAADF8DA344E065?personId=262123856">Bielefeld University</a>  
+
+Contact information:
+<a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp;jsessionid=918F95BE3678C146DCAADF8DA344E065?personId=262123856">Bielefeld University</a>, <a href="https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/semantic-computing/team/moritz-blum/">Semantic Computing Group</a>  
   
 </p>
 
