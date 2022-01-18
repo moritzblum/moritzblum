@@ -3,7 +3,7 @@
 <h3 align="center">PhD student @ Semantic Computing Group (Bielefeld University)</h3>
 
 - 🔭 I’m currently working on my PhD topic - **combining strucured and unstructured data into hybride representations to allow machine learning models to access both types of data**
-- 🌱 I'm Co-Founder and main developer @ <a href="https://www.mein-impfrechner.de">mein-impfrechner.de</a>
+- 🌱 I'm Co-Founder and Main Developer @ <a href="https://www.mein-impfrechner.de">mein-impfrechner.de</a>
 
 
 <h3 align="left">Connect with me:</h3>
