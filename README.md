@@ -2,7 +2,7 @@
 <h1 align="center">Moritz 🪴</h1>
 <h3 align="center">Ph.D. student @ Semantic Computing Group (Bielefeld University)</h3>
 
-🔭 I’m currently finishing on my Ph.D. thesis **Exploring Methodological Synergies between Link Prediction and Relation Extraction**
+I’m currently finishing on my Ph.D. thesis **Exploring Methodological Synergies between Link Prediction and Relation Extraction**. 🔭 
 
 
 
